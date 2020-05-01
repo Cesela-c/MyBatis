@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyBatis.iml" filepath="$PROJECT_DIR$/MyBatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyBatis_crud/MyBatis_crud.iml" filepath="$PROJECT_DIR$/../MyBatis_crud/MyBatis_crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyBatis_parameterType_map/MyBatis_parameterType_map.iml" filepath="$PROJECT_DIR$/../MyBatis_parameterType_map/MyBatis_parameterType_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyBatis_resultType_map/MyBatis_resultType_map.iml" filepath="$PROJECT_DIR$/../MyBatis_resultType_map/MyBatis_resultType_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mybatis_Web/Mybatis_Web.iml" filepath="$PROJECT_DIR$/../Mybatis_Web/Mybatis_Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mybatis_Web_老杜/Mybatis_Web_老杜.iml" filepath="$PROJECT_DIR$/../Mybatis_Web_老杜/Mybatis_Web_老杜.iml" />
+    </modules>
+  </component>
+</project>
